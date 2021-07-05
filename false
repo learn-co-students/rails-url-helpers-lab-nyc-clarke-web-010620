@@ -1,0 +1,4 @@
+      invoke  active_record
+      create    db/migrate/20200131162135_add_column.rb
+
+      <div><%= link_to student.to_s show_path(student) %></div>
